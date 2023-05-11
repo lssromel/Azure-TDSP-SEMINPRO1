@@ -8,3 +8,5 @@
 4. Crear el repo en github (https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) 
 5. "git remote add origin <REMOTE_URL>"
 6. "git push origin main"
+
+Listo!
