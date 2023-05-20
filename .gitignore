@@ -1,0 +1,6 @@
+# Ignore all csv and xlsx files
+#*.csv
+#*.xlsx
+#**/legacy/
+# Ignore notebooks chekpoints
+**/.ipynb_checkpoints/
